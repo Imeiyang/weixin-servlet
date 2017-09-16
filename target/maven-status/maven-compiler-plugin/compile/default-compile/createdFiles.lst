@@ -1,0 +1,9 @@
+com\hzit\entity\Message.class
+com\hzit\entity\NormalMessage.class
+com\hzit\utils\Sha1Util.class
+com\hzit\servlet\WeiXinServlet.class
+com\hzit\utils\RandomUtil.class
+com\hzit\entity\TextNormalMessage.class
+com\hzit\entity\EventMessage.class
+com\hzit\entity\ClickEventMessage.class
+com\hzit\service\MessageService.class
