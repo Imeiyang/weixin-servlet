@@ -3,9 +3,7 @@ package com.hzit.utils;
 import java.util.Random;
 
 public class RandomUtil {
-	
 	public static String getRandom(){
-
 		String str = "";
 		Random random = new Random();
 		int num = random.nextInt(3)+1;
